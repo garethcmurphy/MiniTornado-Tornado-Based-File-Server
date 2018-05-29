@@ -1,4 +1,4 @@
 # minitornado
 
-This repository sets up a fileserver to run as a kubernetes service
+This repository sets up a tornado-based file server on a docker container.
 
